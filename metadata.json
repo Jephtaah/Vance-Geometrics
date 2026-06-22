@@ -1,0 +1,6 @@
+{
+  "name": "Land Surveying & Geospatial Engineering",
+  "description": "High-end landing page for land surveying and geospatial engineering, featuring interactive coordinate boundaries, survey calculations, precision metrics, and custom equipment specifications.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
